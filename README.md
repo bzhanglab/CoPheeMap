@@ -4,9 +4,12 @@ Introduction: Mass spectrometry-based phosphoproteomics offers a comprehensive v
 
 Prerequisites: Python 3 or higher; Anaconda jupyter notebook 6.5.2
 
+Additional data: download all supplementary tables to the folder Supplementary_table, or some codes could not run.
+
 Section 1 CoPheeMap: 
 
 CoPheeMap.ipynb
+Related folder: CoPheeMap
 
 Section 2 CoPheeKSA: 
 
