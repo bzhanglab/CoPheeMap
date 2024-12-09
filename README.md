@@ -9,7 +9,7 @@ Additional data: download all supplementary tables to the folder Supplementary_t
 Section 1 CoPheeMap: 
 
 CoPheeMap.ipynb
-Related folder: CoPheeMap
+Related folders: CoPheeMap, KSA, PanCan, PPI, Supplementary_table
 
 Section 2 CoPheeKSA: 
 
