@@ -6,17 +6,16 @@ Prerequisites: Python 3 or higher; Anaconda jupyter notebook 6.5.2
 
 Additional data: download all supplementary tables to the folder Supplementary_table, or some codes could not run.
 
-Section 1 CoPheeMap: 
+Section 1 CoPheeMap: Supervised learning model to construct a co-regulated phosphosite network CoPheeMap
 
 CoPheeMap.ipynb
 
 Related folders: CoPheeMap, KSA, PanCan, PPI, Supplementary_table
 
-Section 2 CoPheeKSA: 
+Section 2 CoPheeKSA: Supervised learning model to predict KSA based on CoPheeMap and KMap
 
-PSSM.ipynb
-kinase_network.ipynb
-CoPheeKSA.ipynb
 CoPheeKSA_XGBoost.ipynb
+
+Related folders: CoPheeKSA, KSA, Supplementary_table
 
 Jiang W, Jaehnig EJ, Liao Y, Yaron-Barir TM, Johnson JL, Cantley LC, Zhang B. Illuminating the Dark Cancer Phosphoproteome Through a Machine-Learned Co-Regulation Map of 26,280 Phosphosites. bioRxiv [Preprint]. 2024 Mar 21:2024.03.19.585786. doi: 10.1101/2024.03.19.585786. PMID: 38562798; PMCID: PMC10983930.
