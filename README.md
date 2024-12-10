@@ -18,4 +18,10 @@ CoPheeKSA_XGBoost.ipynb
 
 Related folders: CoPheeKSA, KSA, PanCan, Supplementary_table
 
+Additional coding:
+
+PSSM.ipynb
+
+Generate PSSM matrices from gold standard KSAs
+
 Jiang W, Jaehnig EJ, Liao Y, Yaron-Barir TM, Johnson JL, Cantley LC, Zhang B. Illuminating the Dark Cancer Phosphoproteome Through a Machine-Learned Co-Regulation Map of 26,280 Phosphosites. bioRxiv [Preprint]. 2024 Mar 21:2024.03.19.585786. doi: 10.1101/2024.03.19.585786. PMID: 38562798; PMCID: PMC10983930.
