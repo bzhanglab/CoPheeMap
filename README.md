@@ -47,7 +47,7 @@ For detailed information, refer to our [bioRxiv preprint](https://doi.org/10.110
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CoPheeMap.git
+   git clone https://github.com/bzhanglab/CoPheeMap.git
    cd CoPheeMap
    ```
 2. Install dependencies:
