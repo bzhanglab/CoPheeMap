@@ -8,7 +8,6 @@ Integrating network features from CoPheeMap into a machine learning model, CoPhe
 By applying CoPheeMap and CoPheeKSA to phosphosites with high computationally predicted functional significance and cancer-associated phosphosites, we demonstrate the effectiveness of these tools in systematically illuminating phosphosites of interest, revealing dysregulated signaling processes in human cancer, and identifying under-studied kinases as putative therapeutic targets.
 
 
-### CoPheeMap: Supervised learning model to construct a co-regulated phosphosite network CoPheeMap
 
 | Component | Description | Notebook |
 |-----------|-------------|----------|
