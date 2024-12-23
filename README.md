@@ -10,19 +10,11 @@ By applying CoPheeMap and CoPheeKSA to phosphosites with high computationally pr
 
 ### CoPheeMap: Supervised learning model to construct a co-regulated phosphosite network CoPheeMap
 
-CoPheeMap.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzhanglab/CoPheeMap/blob/main/CoPheeMap.ipynb)
-
-Related folders: CoPheeMap, KSA, PanCan, PPI, Supplementary_table
-
-### CoPheeKSA: Supervised learning model to predict KSA based on CoPheeMap and KMap
-
-CoPheeKSA_XGBoost.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzhanglab/CoPheeMap/blob/main/CoPheeKSA_XGBoost.ipynb)
-
-Related folders: CoPheeKSA, KSA, PanCan, Supplementary_table
-
-### PSSM: Generate PSSM matrices from gold standard KSAs
-
-PSSM.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzhanglab/CoPheeMap/blob/main/PSSM.ipynb)
+| Component | Description | Notebook |
+|-----------|-------------|----------|
+| CoPheeMap | Supervised learning model to construct a co-regulated phosphosite network | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzhanglab/CoPheeMap/blob/main/CoPheeMap.ipynb) |
+| CoPheeKSA | Supervised learning model to predict KSA based on CoPheeMap and KMap | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzhanglab/CoPheeMap/blob/main/CoPheeKSA_XGBoost.ipynb) |
+| PSSM | Generate PSSM matrices from gold standard KSAs | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzhanglab/CoPheeMap/blob/main/PSSM.ipynb) |
 
 ### Citation
 
